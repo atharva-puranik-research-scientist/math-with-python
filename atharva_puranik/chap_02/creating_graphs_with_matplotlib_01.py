@@ -1,0 +1,6 @@
+# Program to demonstrate creating graphs with  matplotlib in python with IDLE
+from pylab import plot, show
+x_numbers = [1, 2, 3]
+y_numbers = [2, 4, 6]
+plot(x_numbers, y_numbers)
+show()
