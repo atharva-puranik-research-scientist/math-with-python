@@ -1,5 +1,5 @@
-# finding mode of numbers list with multiple modes
-# chapter 03 pg no. 68 -- math with python
+# creatimg a frequency table for a list of numbers
+# chapter 03 pg no. 69 -- math with python
 # programmer - Atharva Puranik
 
 
