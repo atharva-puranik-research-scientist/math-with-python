@@ -1,4 +1,4 @@
-# finding median 
+# Program for calculating medians in Python with Spyder 
 # chapter 03 pg no. 64 -- math with python
 # programmer - Atharva Puranik
 
